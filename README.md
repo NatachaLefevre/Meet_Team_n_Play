@@ -2,7 +2,7 @@
 Service numérique gaming pour Ubisoft, créé dans le cadre du hackathon "Pimp the data", organisé par Ubisoft et Simplon.co.
 
 ## Fonctionnement
-Meet team'n play propose de regrouper les joueurs des jeux Ubisoft en fonction de leurs habitudes de jeu, afin de les mettre en relation pour jouer en équipe et échanger des scores.
+Meet team'n'Play propose de regrouper les joueurs des jeux Ubisoft en fonction de leurs habitudes de jeu, afin de les mettre en relation pour jouer en équipe et échanger des scores.
 Le service met ainsi en relation des joueurs qui ont des points communs : pays, horaires et niveau de jeu, titres favoris...
 
 ![Plateforme jeu test R6-01](https://github.com/user-attachments/assets/e3bdde0a-d2fb-4266-bfef-81f66332cabf)
