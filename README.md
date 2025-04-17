@@ -8,6 +8,8 @@ Le service met ainsi en relation des joueurs qui ont des points communs : pays, 
 
 Le service s'active en jeu avec une touche de la manette : un overlay s'affiche et permet de rapidement accéder à son équipe et aux joueurs correspondant aux critères enregistrés.
 
+Sur ce projet j'ai réalisé le logo, et les interfaces de test.
+
 ![Logo_meet_team_play-picto-01](https://github.com/user-attachments/assets/d63fd072-1e50-4dc8-82ba-91c1a6ebe1f2)
 
 ![Plateforme jeu test R6-01](https://github.com/user-attachments/assets/e3bdde0a-d2fb-4266-bfef-81f66332cabf)
