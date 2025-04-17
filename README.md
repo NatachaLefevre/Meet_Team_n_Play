@@ -3,7 +3,9 @@ Service numérique gaming pour Ubisoft, créé dans le cadre du hackathon "Pimp 
 
 ## Fonctionnement
 Meet Team'n'Play propose de regrouper les joueurs des jeux Ubisoft en fonction de leurs habitudes de jeu, afin de les mettre en relation pour jouer en équipe et échanger des scores.
+
 Le service met ainsi en relation des joueurs qui ont des points communs : pays, horaires et niveau de jeu, titres favoris...
+
 Le service s'active en jeu avec une touche de la manette : un overlay s'affiche et permet de rapidement accéder à son équipe et aux joueurs correspondant aux critères enregistrés.
 
 ![Logo_meet_team_play-picto-01](https://github.com/user-attachments/assets/d63fd072-1e50-4dc8-82ba-91c1a6ebe1f2)
